@@ -1,5 +1,4 @@
 import 'package:app/auth/presentation/pages/Banner_page.dart';
-import 'package:app/auth/presentation/pages/Welcome_page.dart';
 import 'package:app/core/theme/theme.dart';
 import 'package:flutter/material.dart';
 
